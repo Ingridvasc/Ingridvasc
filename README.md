@@ -8,8 +8,9 @@ Hi there! 👋
 
 <br>🌱 Currently Learning<br>I’m diving deeper into Machine Learning and exploring world development. My goal is to create impactful solutions in AI and data science for real-world applications.<br>
 
-<br>🌎 What Drives Me<br>I aspire to contribute to the fields of sustainable engineering and computational science. One day, I hope to work as a researcher or developer in an international setting, advancing technology for a better world.<br><br>📫 Get in Touch<br>LinkedIn<br>Portfolio<br>Email<br>
+<br>🌎 What Drives Me<br>I aspire to contribute to the fields of sustainable engineering and computational science. One day, I hope to work as a researcher or developer in an international setting, advancing technology for a better world.<br>
 
+<br>📫 Get in Touch<br>LinkedIn<br>Portfolio<br>Email<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ingrid_75826) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ingrid-karoline-vasconcelos-da-silva-18635a230/) 
